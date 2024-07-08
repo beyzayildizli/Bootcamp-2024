@@ -53,11 +53,10 @@ Gemiden bir adaya giderken yapılabilecek aktiviteler:
 # Sprint Planı
 
 ### Sprint 1: Oyun Tasarım Dokümanını Oluşturma
-- **Sprint Süresi**: 1 hafta
-- **Sprint Hedefi**: Oyun tasarım dokümanının oluşturulması ve görev dağılımı.
-- [Sprint Backlog](https://trello.com/b/3FyUdL6U)
-- [Oyun Tasarım Dokümanı](https://drive.google.com/file/d/1WHdMYQGexupMSSiCY2MNQeW7nEHh4Tlv/view?usp=sharing)
-- [Takim içi letişim](https://imgur.com/a/dab01a8)
+ **Sprint Süresi**: 1 hafta
+ 
+ **Sprint Hedefi**: Oyun tasarım dokümanının oluşturulması ve görev dağılımı.
+ 
  - Sprint içi tahmin edilen tamamlanacak puan 20 olarak belirlenmiştir. 15 puan Oyun Tasarım Dokümanının yazımı, 5 puan ise görev dağılımının yapılması.
  - Toplam Sprint Backlog puanı 120 olarak belirlenmiştir. Ekip üyelerinin müsaitlik durumlarından ötürü ilk Sprint pek verimli geçmemiştir.
  - İlk Sprintten sonra Daily Scrum gerçekleştirilmeye çalışılacaktır.
@@ -75,6 +74,12 @@ Gemiden bir adaya giderken yapılabilecek aktiviteler:
    **Sprint Retrospective:**
    - Ekip içerisindeki iletişim sorunun halledilmelidir. Bunun için her üyenin elinden geleni yapması gerekmektedir.
    - Sprint Backlog'da bulunan görevlere derhal başlanmalıdır.
+
+ [Sprint Backlog](https://trello.com/b/3FyUdL6U)
+
+ [Oyun Tasarım Dokümanı](https://drive.google.com/file/d/1WHdMYQGexupMSSiCY2MNQeW7nEHh4Tlv/view?usp=sharing)
+ 
+ [Takim içi letişim](https://imgur.com/a/dab01a8)
   
 
 
