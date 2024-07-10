@@ -74,12 +74,15 @@ Gemiden bir adaya giderken yapılabilecek aktiviteler:
    **Sprint Retrospective:**
    - Ekip içerisindeki iletişim sorunun halledilmelidir. Bunun için her üyenin elinden geleni yapması gerekmektedir.
    - Sprint Backlog'da bulunan görevlere derhal başlanmalıdır.
+  
+ [Sprint Board](https://github.com/fulue00127/Bootcamp-2024/issues/1#issue-2401087563)
 
- [Sprint Backlog](https://trello.com/b/3FyUdL6U)
+ [Trello Linki](https://trello.com/b/3FyUdL6U)
 
  [Oyun Tasarım Dokümanı](https://drive.google.com/file/d/1WHdMYQGexupMSSiCY2MNQeW7nEHh4Tlv/view?usp=sharing)
  
  [Takim içi letişim](https://imgur.com/a/dab01a8)
+ 
   
 
 
