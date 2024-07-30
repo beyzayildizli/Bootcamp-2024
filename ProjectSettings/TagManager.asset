@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Sea
+  - Mysterious_Island
+  - City
+  - Ship
+  - Island
   layers:
   - Default
   - TransparentFX
